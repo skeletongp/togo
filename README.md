@@ -1,4 +1,4 @@
-# Todo: Gestor de viajes
+# ToGo: Gestor de viajes
 
 ## Objetivos del sistema
 
