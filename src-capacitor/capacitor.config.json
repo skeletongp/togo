@@ -1,0 +1,7 @@
+{
+  "appId": "com.atriontechsd.togo",
+  "appName": "ToGO",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

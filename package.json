@@ -1,0 +1,44 @@
+{
+  "name": "togo",
+  "version": "0.0.1",
+  "description": "Gestor de viajes personales",
+  "productName": "ToGO",
+  "author": "Ismael Contreras <smartdom.biz@gmail.com>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue ./",
+    "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "ant-design-vue": "^3.2.15",
+    "axios": "^0.21.1",
+    "dexie": "^3.2.3",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.40",
+    "number-suffix": "^1.0.1",
+    "pinia": "^2.0.11",
+    "quasar": "^2.6.0",
+    "remixicon": "^2.5.0",
+    "vue": "^3.0.0",
+    "vue-google-autocomplete": "^1.1.4",
+    "vue-router": "^4.0.0",
+    "vue3-google-map": "^0.15.0"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.0.0",
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.10.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-vue": "^9.0.0",
+    "postcss": "^8.4.21",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.2.4"
+  },
+  "engines": {
+    "node": "^18 || ^16 || ^14.19",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

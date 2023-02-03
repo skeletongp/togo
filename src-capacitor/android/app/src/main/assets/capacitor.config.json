@@ -1,0 +1,10 @@
+{
+  "appId": "com.atriontechsd.togo",
+  "appName": "ToGO",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.100.4:9500"
+  }
+}

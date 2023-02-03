@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ToGO</string>
+    <string name="title_activity_main">ToGO</string>
+    <string name="package_name">com.atriontechsd.togo</string>
+    <string name="custom_url_scheme">com.atriontechsd.togo</string>
+</resources>
